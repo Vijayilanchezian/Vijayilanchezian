@@ -2,7 +2,7 @@
 - 👀 I’m interested in working with big data
 - 🌱 I’m currently learning Data Science & Analytical skills
 - 💞️ I’m looking to collaborate on my mentor & mine
-- 📫 Thank You 
+- 📫 Thank You for visiting
 
 <!---
 Vijayilanchezian/Vijayilanchezian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
